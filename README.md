@@ -1,4 +1,4 @@
-# Link Share Bot ✨
+# ─「<u>Lɪɴᴋ sʜᴀʀᴇ ʙᴏᴛ</u>」─
 
 <p align="center">
   <img src="assets/img.jpg" alt="Bot Channels" width="1920"/>
@@ -13,13 +13,12 @@
 
 ## 🚀 Features
 
--   **Advanced Link Sharing:** Securely share links from your channels.
--   **FORCE SUBSCRIBE:** Ensure users join designated channels before they can access links.
--   **Button-Based UI:** Modern, easy-to-use interface with inline buttons instead of text commands.
--   **Dynamic Content:** Rich messages with images and styled text using blockquotes.
--   **In-Bot Configuration:** The bot owner can manage all important settings directly from the bot's UI.
-    -   Manage Force-Subscribe channels (add, remove, list, toggle modes).
--   **Secure:** No hardcoded credentials. All sensitive information is loaded from environment variables.
+-   **Advanced Link Sharing:** _Securely share links from your channels._
+-   **FORCE SUBSCRIBE:** _Ensure users join designated channels before they can access links._
+-   **Button-Based UI:** _Modern, easy-to-use interface with inline buttons instead of text commands._
+-   **Dynamic Content:** _Rich messages with images and styled text using blockquotes._
+-   **In-Bot Configuration:** _The bot owner can manage all important settings directly from the bot's UI._
+-   **Secure:** _No hardcoded credentials. All sensitive information is loaded from environment variables._
 
 ---
 
@@ -37,13 +36,13 @@
 
 ## 🛠️ How to Deploy
 
-You can easily deploy this bot yourself. Follow the steps below.
+_You can easily deploy this bot yourself. Follow the steps below._
 
 ### **Prerequisites**
 
--   A Telegram Bot Token. Get one from [@BotFather](https://t.me/BotFather).
--   Your Telegram API ID and API Hash. Get them from [my.telegram.org](https://my.telegram.org).
--   A MongoDB database URL. Get one for free from [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
+-   _A Telegram Bot Token. Get one from [@BotFather](https://t.me/BotFather)._
+-   _Your Telegram API ID and API Hash. Get them from [my.telegram.org](https://my.telegram.org)._
+-   _A MongoDB database URL. Get one for free from [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)._
 
 ### **Deployment Steps**
 
@@ -82,12 +81,13 @@ You can easily deploy this bot yourself. Follow the steps below.
 
 ## Credits:-
 
-This bot was made possible with the help and support of the following individuals:
+_This bot was made possible with the help and support of the following individuals:_
 
 -   **[ABHINAI](https://t.me/about_zani)**
 -   **[ABHINAV](https://t.me/adityaabhinav)**
 -   **[MASTER](https://t.me/V_Sbotmaker)**
 
-A special thanks to the **[REx BOTs](https://t.me/RexBots_Official)** channel for make this advance repo of link share bot.
-A special thanks to the **[CodeFlix](https://github.com/Codeflix-Bots/Links-Share-Bot.git)** channel for their inspiration and support!
+- **[REx BOTs](https://t.me/RexBots_Official)**
+
+- **Base Repo**:- **[CodeFlix](https://github.com/Codeflix-Bots/Links-Share-Bot.git)**
 ---
